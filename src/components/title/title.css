@@ -1,0 +1,4 @@
+:local(.normal) {
+  composes: textCenter from "../../index.css";
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}

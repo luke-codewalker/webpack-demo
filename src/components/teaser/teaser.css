@@ -1,0 +1,4 @@
+.light {
+  composes: textCenter from "../../index.css";
+  color: #888;
+}
